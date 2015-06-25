@@ -1,0 +1,31 @@
+<link rel="import" href="../polymer/polymer.html">
+
+<dom-module id="bootstrap-panel">
+	<template>
+
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3 class="panel-title">{{label}}</h3>
+			</div>
+			<div class="panel-body">
+				<content></content>
+			</div>
+		</div>
+
+	</template>
+</dom-module>
+
+<script>
+Polymer({
+  	is: "bootstrap-panel",
+
+    properties: {
+      label: { type: String, value: "Panel's title" },
+      addclass: { type: String }
+  	},
+
+  	ready: function() {
+  		this.className = this.addclass;
+  	}
+});
+</script>

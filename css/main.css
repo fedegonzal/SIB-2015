@@ -1,22 +1,30 @@
+#ficha-ap .summary .datos-postales {
+  font-size: 0.8em; }
+#ficha-ap #infoGeneral .galeria .panel-body {
+  height: 200px;
+  overflow-y: scroll; }
+#ficha-ap #infoGeneral .timeline .panel-body {
+  height: 200px;
+  overflow-y: scroll; }
 
+body {
+  font-size: 16px; }
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+img {
+  max-width: 100%; }
 
+bootstrap-panel {
+  display: block; }
 
+.nav-tabs {
+  min-width: 600px; }
 
+.nav-tabs-responsive {
+  overflow: auto; }
 
+.gallery-img div {
+  padding: 1px; }
+  .gallery-img div img {
+    width: 100%; }
 
-
-
-
-
-
-
-
-
-
-
-
-
+/*# sourceMappingURL=main.css.map */

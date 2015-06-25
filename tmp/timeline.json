@@ -1,0 +1,17 @@
+[
+	{
+		"id": "tdf",
+		"name": "Parque Nacional Tierra del Fuego",
+		"year": "1945"
+	},
+	{
+		"id": "iguazu",
+		"name": "Parque Nacional Iguazú",
+		"year": "1930"
+	},
+	{
+		"id": "calilegua",
+		"name": "Parque Nacional Calilegua",
+		"year": "1920"
+	}
+]

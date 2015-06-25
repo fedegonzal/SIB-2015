@@ -1,0 +1,10 @@
+#ficha-ap .summary .datos-postales {
+  font-size: 0.8em; }
+#ficha-ap #infoGeneral .galeria .panel-body {
+  height: 200px;
+  overflow-y: scroll; }
+#ficha-ap #infoGeneral .timeline .panel-body {
+  height: 200px;
+  overflow-y: scroll; }
+
+/*# sourceMappingURL=ficha-ap.css.map */

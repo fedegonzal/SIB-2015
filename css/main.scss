@@ -1,0 +1,18 @@
+@import 'ficha-ap';
+
+body { font-size: 16px; }
+img { max-width: 100%; }
+bootstrap-panel { display: block; }
+
+.nav-tabs { min-width: 600px; }
+.nav-tabs-responsive { overflow: auto; }
+
+.gallery-img {
+	div {
+		padding: 1px;
+
+		img {
+			width: 100%;
+		}
+	}
+}

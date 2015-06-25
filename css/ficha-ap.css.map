@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEC,kCAAyB;EACxB,SAAS,EAAE,KAAK;AAKhB,2CAAqB;EACpB,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,MAAM;AAGnB,4CAAsB;EACrB,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,MAAM",
+"sources": ["ficha-ap.scss"],
+"names": [],
+"file": "ficha-ap.css"
+}
